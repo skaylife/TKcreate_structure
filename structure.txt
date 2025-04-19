@@ -1,0 +1,12 @@
+my_bot/
+├── bot.py
+├── config.py
+├── handlers/
+│   ├── __init__.py
+│   ├── subscription_handler.py
+│   ├── payment_handler.py
+│   └── usage_handler.py
+├── utils/
+│   └── data_manager.py
+└── data/
+    └── user_12345.json

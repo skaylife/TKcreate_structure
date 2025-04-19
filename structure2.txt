@@ -1,0 +1,12 @@
+tests/
+├── __init__.py
+├── test_structure_generator.py
+└── test_data/
+    ├── dummy_structure.txt
+    └── dummy_project/
+        ├── bot.py
+        ├── config.py
+        ├── data/
+        ├── handlers/
+        │   └── subscription_handler.py
+        └── utils/
